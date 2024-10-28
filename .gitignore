@@ -39,6 +39,11 @@ bower_components
 build/Release
 
 # Dependency directories
+./Canva_Backend/node_modules/
+./Canva_Frontend/node_modules/
+./Canva_Backend/env
+
+
 node_modules/
 jspm_packages/
 
